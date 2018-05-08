@@ -22,5 +22,5 @@
 			<icon src="icon.png" density="mdpi" />
 			<icon src="icon.png" density="hdpi" />
 			<icon src="icon.png" density="xhdpi" />
-	   </plantform>
+	   </platform>
 </widget>
